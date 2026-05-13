@@ -224,7 +224,7 @@ footer { padding: 40px 0; text-align: center; border-top: 1px solid var(--border
 }
 .btn-cv {
     text-decoration: none !important; /* Alt xətti ləğv edir */
-    padding: 10px 22px;
+    padding: 3px 13px;
     background-color: transparent;
     color: var(--primary) !important;
     border: 2px solid var(--primary);
