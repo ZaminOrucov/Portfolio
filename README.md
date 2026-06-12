@@ -12,9 +12,9 @@ Sayta canlı olaraq buradan baxa bilərsiniz: **[Canlı Keçid Linki](https://za
 Layihənin hazırlanmasında müasir və sürətli veb texnologiyalarından istifadə olunub:
 
 *   **Frontend:** React.js / HTML5 / CSS3 / JavaScript (ES6+)
-*   **Styling:** Tailwind CSS (və ya istifadə etdiyiniz digər framework, örn: Bootstrap / Styled Components)
+*   **Styling:** Tailwind CSS (Styled Components)
 *   **İkonlar & Animasiyalar:** React Icons / Framer Motion
-*   **Deployment:** GitHub Pages / Vercel / Netlify (Hansıdırsa onu saxlayın)
+*   **Deployment:** GitHub Pages
 
 ---
 
