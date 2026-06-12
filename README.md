@@ -3,7 +3,7 @@
 Bu layihə, mənim proqram təminatı mühəndisliyi sahəsindəki təcrübəmi, reallaşdırdığım layihələri və istifadə etdiyim texnologiyaları nümayiş etdirən fərdi portfel veb-saytımdır. Sayt həm masaüstü, həm də mobil cihazlar üçün tam optimallaşdırılmışdır (responsive).
 
 ## 🌐 Canlı Demo
-Sayta canlı olaraq buradan baxa bilərsiniz: **[Canlı Keçid Linki](Y[URD_BURAYA_LINK_YAZIN](https://zaminorucov.github.io/Portfolio/))**
+Sayta canlı olaraq buradan baxa bilərsiniz: **[Canlı Keçid Linki](https://zaminorucov.github.io/Portfolio/)**
 
 ---
 
