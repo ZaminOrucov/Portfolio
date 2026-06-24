@@ -34,4 +34,5 @@ Layihəni öz kompüterinizdə yoxlamaq üçün aşağıdakı addımları izləy
 
 1. **Repozitoriyanı klonlayın:**
 ```bash
-   git clone [https://github.com/ZaminOrucov/Portfolio.git](https://github.com/ZaminOrucov/Portfolio.git)
+   [git clone [https://github.com/ZaminOrucov/Portfolio.git](https://github.com/ZaminOrucov/Portfolio.git)
+](https://zaminorucov.github.io/Portfolio/)
